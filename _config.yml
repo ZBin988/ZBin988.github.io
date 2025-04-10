@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "ZBin's Academic Homepage"
 title_separator          : "-"
 permalink: /:title/
-name                     : &name "ZBin988"
+name                     : &name "ZBin"
 description              : &description "CS student, exploring AI & deep learning."
 url                      : https://ZBin988.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
