@@ -30,5 +30,5 @@ redirect_from:
 
 ---
 
-> 本站基于 [AcademicPages](https://github.com/academicpages/academicpages) 搭建，使用 GitHub Pages 部署。
+> 本站基于 [AcademicPages](https://github.com/academicpages/academicpages.github.io) 搭建，使用 GitHub Pages 部署。
 
