@@ -1,7 +1,7 @@
 ---
 title: "基于深度学习的遥感图像目标检测算法设计"
 collection: publications
-permalink: /publications/
+permalink: /publications/remote-sensing-detection/
 date: 2025-06-01
 author: "ZBin"
 venue: "本科毕业设计"
