@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "基于图像识别的智能行为监测系统"
 collection: portfolio
+category: portfolio
+permalink: /portfolio/2023-05-01-intelligent-behavior-monitoring
+excerpt: '基于SVM、HOG与Dlib技术实现异常行为检测，提升智能系统的自动化与安全性。'
+date: 2023-05-01
+venue: '技术创新与实践'
+citation: 'ZBin. (2023). "基于图像识别的智能行为监测系统." <i>技术创新与实践</i>. Xinjiang University.'
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
