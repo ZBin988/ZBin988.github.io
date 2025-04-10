@@ -6,10 +6,6 @@ permalink: /publication/2025-06-01-remote-sensing-detection
 excerpt: '本论文探讨 YOLOv8 等主流目标检测算法在遥感图像中的适配性与优化路径，并在 DOTA 数据集上进行性能评估。'
 date: 2025-06-01
 venue: '本科毕业设计'
-slidesurl: 'https://yourdomain.com/files/slides.pdf'
-paperurl: 'https://yourdomain.com/files/thesis.pdf'
-bibtexurl: 'https://yourdomain.com/files/bibtex.bib'
-citation: 'ZBin. (2025). "基于深度学习的遥感图像目标检测算法设计". <i>本科毕业设计</i>, Xinjiang University.'
 ---
 
 本课题为本人本科毕业设计项目（2024.12 - 2025.06），聚焦于遥感图像中的目标检测问题，尤其关注复杂背景与小目标识别的挑战。
