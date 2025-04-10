@@ -1,10 +1,20 @@
 ---
+​---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
+​---
+
+你好，我是 **ZBin**，来自新疆大学，是一名 CS 专业的学生。  
+目前专注于 Deep Learning、AI4Science 以及生物信息学方向，热衷于图像识别、深度学习与项目实践。
+
+我创建这个网站用于展示我的项目经历、学术成果与技术积累，也希望能与更多志同道合的朋友交流学习。
+
+📬 如有兴趣合作或交流，欢迎通过邮箱联系我。  
+[Email](mailto:1915594675@qq.com)
 ---
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
