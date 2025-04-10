@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ​---
-
 你好，我是 **ZBin**，来自新疆大学，是一名 CS 专业的学生。  
 目前专注于 Deep Learning、AI4Science 以及生物信息学方向，热衷于图像识别、深度学习与项目实践。
 
